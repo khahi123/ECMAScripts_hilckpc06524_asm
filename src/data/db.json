@@ -1,0 +1,179 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "casuals"
+      },
+      {
+        "id": 2,
+        "name": "dress"
+      },
+      {
+        "id": 3,
+        "name": "sports"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 2,
+        "name": "Product 2",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 2,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      },{
+        "id": 1,
+        "name": "Product 1",
+        "cateId": 1,
+        "price": 100000,
+        "detail": "Mo ta ne",
+        "image": "/public/assets/client/images/item-1.jpg"
+      }
+    ],
+    "orders": [
+      {
+        "id": 1,
+        "customer_name": "Customer 1",
+        "customer_address": "Address 1",
+        "customer_email": "customer1@example.com",
+        "customer_phone_number": "123456789",
+        "created_date": "2024-01-21",
+        "status": "Pending"
+      },
+      {
+        "id": 2,
+        "customer_name": "Customer 2",
+        "customer_address": "Address 2",
+        "customer_email": "customer2@example.com",
+        "customer_phone_number": "987654321",
+        "created_date": "2024-01-22",
+        "status": "Completed"
+      }
+    ],
+    "order_details": [
+      {
+        "order_id": 1,
+        "product_id": 1,
+        "quantity": 2,
+        "unit_price": 100000
+      },
+      {
+        "order_id": 1,
+        "product_id": 2,
+        "quantity": 1,
+        "unit_price": 120000
+      }
+    ]
+  }
